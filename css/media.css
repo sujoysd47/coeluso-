@@ -13,7 +13,13 @@
   font-size: 15px;
 }
 /* header end */
-
+  
+/* banner start */
+  .banner_heading h1 {
+    font-size: 31px;
+  }
+/* banner end */
+  
 /* view start */
 .view {
   margin-top: 80px;
