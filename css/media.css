@@ -1,6 +1,10 @@
 /* // Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
   /* header start */
+  .banner_heading {
+    margin-top: 60px;
+    margin-bottom: 65px;
+}
   .offcanvas-start{
     width: 260px;
   }
@@ -17,6 +21,9 @@
 /* banner start */
   .banner_heading h1 {
     font-size: 31px;
+  }
+  .img_part {
+    margin-top: 20px;
   }
 /* banner end */
   
@@ -54,6 +61,9 @@
   padding-top: 20px;
   padding-bottom: 40px;
 }
+ .f_content1{
+    text-align:center;
+ }
 .f_content1 p {
   line-height: 30px;
 }
