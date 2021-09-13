@@ -1,0 +1,382 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  /* header start */
+  .offcanvas-start{
+    width: 260px;
+  }
+.navbar-nav .nav-item {
+  padding: 15px 10px;
+
+ }
+ .navbar-nav .nav-item .nav-link {
+  font-weight: 400;
+  font-size: 15px;
+}
+/* header end */
+
+/* view start */
+.view {
+  margin-top: 80px;
+}
+.view_wrap {
+  text-align: center;
+}
+.view_wrap h1{
+  font-size: 30px;
+}
+.view_wrap p {
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
+/* view end */
+
+
+/* feature start */
+.f_content {
+  text-align: center;
+}
+.c_heading{
+  margin-bottom: 50px;
+}
+/* feature end */
+
+
+
+
+/* landing page start */
+.landing {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+.f_content1 p {
+  line-height: 30px;
+}
+/* landing page end */
+
+
+/* testimonial start */
+.testimonial {
+  padding-top: 35px;
+}
+.carousel_p{
+  font-size: 16px;
+}
+/* testimonial end */
+
+/* d_music start */
+.d_music {
+  padding-top: 65px;
+  padding-bottom: 65px;
+}
+.music_wrapper p {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  line-height: 30px;
+}
+.dis_img {
+  padding-bottom: 42px;
+}
+/* d_music end */
+
+/* footer start */
+footer {
+  padding: 24px 0;
+}
+.f_left{
+  text-align: center;
+}
+.f_right p{
+  text-align: center;
+  margin-bottom: 0;
+  font-size: 16px;
+}
+
+.f_left ul li {
+  margin-right: 15px;
+}
+/* footer end */
+
+
+
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* menu start */
+  .offcanvas-start{
+    width: 300px;
+  }
+
+  /* menu end */
+  
+
+  /* view start */
+  .view {
+    margin-top: 80px;
+  }
+  .view_wrap {
+    text-align: center;
+  }
+  .view_wrap h1{
+    font-size: 30px;
+  }
+  /* view end */
+
+/* feature start */
+.f_content i{
+  font-size: 35px;
+}
+.f_content {
+  text-align: center;
+}
+.c_heading{
+  margin-bottom: 50px;
+}
+/* feature end */
+
+
+/* landing page start */
+.landing {
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+.f_content1 p {
+  line-height: 30px;
+}
+/* landing page end */
+
+/* testimonial start */
+.carousel-indicators [data-bs-target] {
+  width: 12px;
+  height: 12px;
+}
+.testimonial {
+  padding-top: 35px;
+}
+.carousel_p{
+  font-size: 17px;
+}
+/* testimonial end */
+
+/* d_music start */
+.d_music {
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+.music_wrapper p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  line-height: 35px;
+}
+.dis_img {
+  padding-bottom: 42px;
+}
+/* d_music end */
+
+/* footer start */
+footer {
+  padding: 24px 0;
+}
+.f_left{
+  text-align: center;
+}
+.f_right p{
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.f_left ul li {
+  margin-right: 15px;
+}
+/* footer end */
+
+
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+ 
+/* view start */
+.view_wrap h1 {
+  font-size:24px;
+}
+.view_wrap p {
+padding-top: 20px;
+padding-bottom: 20px;
+line-height: 30px;
+}
+.v_img img {
+margin-top: 70px;
+}
+.v_img {
+  margin-right: 60px;
+}
+/* view end */
+
+
+/* feature start */
+.f_content {
+  text-align: center;
+}
+.c_heading{
+  margin-bottom: 50px;
+}
+/* feature end */
+
+
+
+
+/* landing page start */
+.landing {
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
+.f_content1 p {
+  line-height: 32px;
+}
+/* landing page end */
+
+/* testimonial start */
+.testimonial {
+  padding-top: 35px;
+}
+.carousel_p{
+  font-size: 21px;
+}
+/* testimonial end */
+
+/* d_music start */
+.d_music {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.music_wrapper p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.dis_img {
+  padding-bottom: 42px;
+}
+/* d_music end */
+
+/* footer start */
+footer {
+  padding: 24px 0;
+}
+.f_left{
+  text-align: center;
+}
+.f_right p{
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.f_left ul li {
+  margin-right: 15px;
+}
+/* footer end */
+
+
+
+
+
+}
+
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* view start */
+.view_wrap h1 {
+    font-size: 30px;
+}
+.view_wrap p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  line-height: 30px;
+}
+.v_img img {
+  margin-top: 50px;
+}
+.v_img {
+  margin-right: 85px;
+}
+/* view end */
+
+
+/* feature start */
+.f_content {
+  text-align: center;
+}
+.c_heading{
+  margin-bottom: 50px;
+}
+/* feature end */
+
+
+/* landing page start */
+.landing {
+  padding-top: 30px;
+}
+.f_content1 p {
+  line-height: 34px;
+}
+/* landing page end */
+
+/* testimonial start */
+.testimonial {
+  padding-top: 45px;
+}
+/* testimonial end */
+
+/* d_music start */
+.d_music {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+.music_wrapper p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  line-height: 35px;
+}
+/* d_music end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/* // x-Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+
+
+
+
+
+
+
+
+
+
+
+ }
+
+/* //  Extra Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) {
+
+
+
+
+}
